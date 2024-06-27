@@ -2,6 +2,7 @@
 # RESOLUTION LIFE AUSTRALASIA
 # https://resolutionlife.com.au
 #
+# Author: art.vandelay@resolutionlife.com.au
 # Description: An example of how to send log events to our API endpoint.
 # # # # # # # # # # # # # # # # # # # #
 
